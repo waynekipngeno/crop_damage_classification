@@ -1,0 +1,74 @@
+Epoch 1/20
+145/145 [==============================] - ETA: 0s - loss: 1.4675 - accuracy: 0.3220
+Epoch 1: val_accuracy improved from -inf to 0.37033, saving model to /content/drive/MyDrive/Group 4 Project/models/optimized_model
+145/145 [==============================] - 1225s 8s/step - loss: 1.4675 - accuracy: 0.3220 - val_loss: 1.3898 - val_accuracy: 0.3703 - lr: 0.0010
+Epoch 2/20
+145/145 [==============================] - ETA: 0s - loss: 1.3558 - accuracy: 0.4028
+Epoch 2: val_accuracy improved from 0.37033 to 0.45898, saving model to /content/drive/MyDrive/Group 4 Project/models/optimized_model
+145/145 [==============================] - 1193s 8s/step - loss: 1.3558 - accuracy: 0.4028 - val_loss: 1.2663 - val_accuracy: 0.4590 - lr: 0.0010
+Epoch 3/20
+145/145 [==============================] - ETA: 0s - loss: 1.2523 - accuracy: 0.4671
+Epoch 3: val_accuracy improved from 0.45898 to 0.50315, saving model to /content/drive/MyDrive/Group 4 Project/models/optimized_model
+145/145 [==============================] - 1184s 8s/step - loss: 1.2523 - accuracy: 0.4671 - val_loss: 1.1703 - val_accuracy: 0.5031 - lr: 0.0010
+Epoch 4/20
+145/145 [==============================] - ETA: 0s - loss: 1.1492 - accuracy: 0.5180
+Epoch 4: val_accuracy improved from 0.50315 to 0.54525, saving model to /content/drive/MyDrive/Group 4 Project/models/optimized_model
+145/145 [==============================] - 1173s 8s/step - loss: 1.1492 - accuracy: 0.5180 - val_loss: 1.0950 - val_accuracy: 0.5452 - lr: 0.0010
+Epoch 5/20
+145/145 [==============================] - ETA: 0s - loss: 1.0469 - accuracy: 0.5692
+Epoch 5: val_accuracy improved from 0.54525 to 0.62099, saving model to /content/drive/MyDrive/Group 4 Project/models/optimized_model
+145/145 [==============================] - 1133s 8s/step - loss: 1.0469 - accuracy: 0.5692 - val_loss: 0.9316 - val_accuracy: 0.6210 - lr: 0.0010
+Epoch 6/20
+145/145 [==============================] - ETA: 0s - loss: 0.9437 - accuracy: 0.6149
+Epoch 6: val_accuracy improved from 0.62099 to 0.67339, saving model to /content/drive/MyDrive/Group 4 Project/models/optimized_model
+145/145 [==============================] - 1185s 8s/step - loss: 0.9437 - accuracy: 0.6149 - val_loss: 0.8267 - val_accuracy: 0.6734 - lr: 0.0010
+Epoch 7/20
+145/145 [==============================] - ETA: 0s - loss: 0.8447 - accuracy: 0.6614
+Epoch 7: val_accuracy improved from 0.67339 to 0.68500, saving model to /content/drive/MyDrive/Group 4 Project/models/optimized_model
+145/145 [==============================] - 1145s 8s/step - loss: 0.8447 - accuracy: 0.6614 - val_loss: 0.7778 - val_accuracy: 0.6850 - lr: 0.0010
+Epoch 8/20
+145/145 [==============================] - ETA: 0s - loss: 0.7875 - accuracy: 0.6828
+Epoch 8: val_accuracy improved from 0.68500 to 0.71029, saving model to /content/drive/MyDrive/Group 4 Project/models/optimized_model
+145/145 [==============================] - 1201s 8s/step - loss: 0.7875 - accuracy: 0.6828 - val_loss: 0.7225 - val_accuracy: 0.7103 - lr: 0.0010
+Epoch 9/20
+145/145 [==============================] - ETA: 0s - loss: 0.7194 - accuracy: 0.7081
+Epoch 9: val_accuracy improved from 0.71029 to 0.73752, saving model to /content/drive/MyDrive/Group 4 Project/models/optimized_model
+145/145 [==============================] - 1183s 8s/step - loss: 0.7194 - accuracy: 0.7081 - val_loss: 0.6581 - val_accuracy: 0.7375 - lr: 0.0010
+Epoch 10/20
+145/145 [==============================] - ETA: 0s - loss: 0.6865 - accuracy: 0.7240
+Epoch 10: val_accuracy improved from 0.73752 to 0.76085, saving model to /content/drive/MyDrive/Group 4 Project/models/optimized_model
+145/145 [==============================] - 1161s 8s/step - loss: 0.6865 - accuracy: 0.7240 - val_loss: 0.5997 - val_accuracy: 0.7609 - lr: 0.0010
+Epoch 11/20
+145/145 [==============================] - ETA: 0s - loss: 0.5912 - accuracy: 0.7600
+Epoch 11: val_accuracy improved from 0.76085 to 0.78288, saving model to /content/drive/MyDrive/Group 4 Project/models/optimized_model
+145/145 [==============================] - 1218s 8s/step - loss: 0.5912 - accuracy: 0.7600 - val_loss: 0.5487 - val_accuracy: 0.7829 - lr: 1.0000e-04
+Epoch 12/20
+145/145 [==============================] - ETA: 0s - loss: 0.5688 - accuracy: 0.7693
+Epoch 12: val_accuracy improved from 0.78288 to 0.78516, saving model to /content/drive/MyDrive/Group 4 Project/models/optimized_model
+145/145 [==============================] - 1186s 8s/step - loss: 0.5688 - accuracy: 0.7693 - val_loss: 0.5352 - val_accuracy: 0.7852 - lr: 1.0000e-04
+Epoch 13/20
+145/145 [==============================] - ETA: 0s - loss: 0.5529 - accuracy: 0.7757
+Epoch 13: val_accuracy did not improve from 0.78516
+145/145 [==============================] - 1156s 8s/step - loss: 0.5529 - accuracy: 0.7757 - val_loss: 0.5310 - val_accuracy: 0.7840 - lr: 1.0000e-04
+Epoch 14/20
+145/145 [==============================] - ETA: 0s - loss: 0.5476 - accuracy: 0.7774
+Epoch 14: val_accuracy improved from 0.78516 to 0.78613, saving model to /content/drive/MyDrive/Group 4 Project/models/optimized_model
+145/145 [==============================] - 1163s 8s/step - loss: 0.5476 - accuracy: 0.7774 - val_loss: 0.5256 - val_accuracy: 0.7861 - lr: 1.0000e-04
+Epoch 15/20
+145/145 [==============================] - ETA: 0s - loss: 0.5405 - accuracy: 0.7815
+Epoch 15: val_accuracy improved from 0.78613 to 0.78852, saving model to /content/drive/MyDrive/Group 4 Project/models/optimized_model
+145/145 [==============================] - 1186s 8s/step - loss: 0.5405 - accuracy: 0.7815 - val_loss: 0.5194 - val_accuracy: 0.7885 - lr: 1.0000e-04
+Epoch 16/20
+145/145 [==============================] - ETA: 0s - loss: 0.5283 - accuracy: 0.7842
+Epoch 16: val_accuracy improved from 0.78852 to 0.79351, saving model to /content/drive/MyDrive/Group 4 Project/models/optimized_model
+145/145 [==============================] - 1182s 8s/step - loss: 0.5283 - accuracy: 0.7842 - val_loss: 0.5059 - val_accuracy: 0.7935 - lr: 1.0000e-04
+Epoch 17/20
+145/145 [==============================] - ETA: 0s - loss: 0.5270 - accuracy: 0.7843
+Epoch 17: val_accuracy did not improve from 0.79351
+145/145 [==============================] - 1164s 8s/step - loss: 0.5270 - accuracy: 0.7843 - val_loss: 0.5116 - val_accuracy: 0.7912 - lr: 1.0000e-04
+Epoch 18/20
+145/145 [==============================] - ETA: 0s - loss: 0.5258 - accuracy: 0.7845
+Epoch 18: val_accuracy did not improve from 0.79351
+145/145 [==============================] - 1148s 8s/step - loss: 0.5258 - accuracy: 0.7845 - val_loss: 0.4957 - val_accuracy: 0.7923 - lr: 1.0000e-04
+Epoch 19/20
+102/145 [====================>.........] - ETA: 4:27 - loss: 0.5135 - accur
