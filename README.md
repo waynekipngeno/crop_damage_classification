@@ -1,4 +1,4 @@
-## Classifying a major crop in different categories.
+## Crop Damage Classification
 Using Machine Learning Algorithm to identify different crop categories in smallholders farms in Africa
 
 ![image](https://github.com/MugoDom/crop_damage_classification/assets/132938391/6192f2a2-9227-4f90-8c8a-52d056bb114f)
