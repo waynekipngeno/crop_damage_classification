@@ -1,0 +1,5 @@
+0 Drought
+1 Good Growth
+2 Nutrient Deficiency
+3 Weed
+4 Other (Pest, Disease)
