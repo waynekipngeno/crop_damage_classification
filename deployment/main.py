@@ -5,7 +5,7 @@ import numpy as np
 
 from util import classify, set_background
 
-set_background('./images/crop_image.jpg')
+# set_background('./images/crop_image.jpg')
 
 # set title with white text
 st.title('Eyes on the ground: Crop Damage Classifier')
