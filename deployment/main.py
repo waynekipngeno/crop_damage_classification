@@ -5,7 +5,7 @@ import numpy as np
 
 from util import classify, set_background
 
-# set_background('./images/crop_image.jpg')
+# set_background('./deployment/images/crop_image.jpg')
 
 # set title with white text
 st.title('Eyes on the ground: Crop Damage Classifier')
@@ -22,7 +22,7 @@ file = st.file_uploader('', type=['jpeg', 'jpg', 'png'])
 model = load_model('./models/optimized_model')
 
 # load class names
-with open('./labels.txt', 'r') as f:
+with open('./deployment/labels.txt', 'r') as f:
     class_names = [a[:-1].split(' ')[1] for a in f.readlines()]
     f.close()
 
